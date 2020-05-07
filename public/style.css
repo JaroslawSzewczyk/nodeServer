@@ -1,0 +1,13 @@
+h1 {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.dark-body{
+  background-color: #000;
+  color: #fff;
+}
+
+.white-nav {
+  color: white;
+}
